@@ -1,0 +1,13 @@
+print 1 + 2 * 3;
+
+var a = 3;
+while (a > 0) {
+  print a;
+  a = a - 1;
+}
+
+fun add(x, y) {
+  return x + y;
+}
+
+print add(4, 5);
